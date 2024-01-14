@@ -26,7 +26,7 @@
 - **billing.c**: A program that generates a bill for a customer who buys items from a store.
 - **calculator.c**: A program that implements a simple calculator that can perform addition, subtraction, multiplication, and division.
 - **even_no.c**: A program that prints all the even numbers from 1 to 100.
-- **naam_kya_hai.c**: A program that asks the user for their name and greets them.
+- **naam_kya_hai.c**: A program that asks to `Bhupendra Jogi`.
 - **no_is_positive.c**: A program that checks whether a number entered by the user is positive or not.
 - **pyramid.c**: A program that prints a pyramid pattern using asterisks.
 - **smallest_no_among_3_no.c**: A program that finds the smallest number among three numbers entered by the user.
