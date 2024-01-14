@@ -11,6 +11,7 @@
 - **Arrow.c**: A program that prints an arrow pattern using asterisks.
   
 - **Diamond.c**: A program that prints a diamond pattern using asterisks.
+  
 - **EvenOrOdd.c**: A program that checks whether a number entered by the user is even or odd.
 - **Factorial.c**: A program that calculates the factorial of a number entered by the user.
 - **HelloWorld.c**: A program that prints "Hello, World!" on the screen.
