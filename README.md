@@ -5,6 +5,7 @@
 - **ATM.c**: A program that simulates an ATM machine that allows the user to withdraw, deposit, and check balance.
   
 - **Addition.c**: A program that adds two numbers entered by the user.
+  
 - **AreaOfTriangle.c**: A program that calculates the area of a triangle given its base and height.
 - **Arrow.c**: A program that prints an arrow pattern using asterisks.
 - **Diamond.c**: A program that prints a diamond pattern using asterisks.
